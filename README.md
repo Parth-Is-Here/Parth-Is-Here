@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 I'm
-Aspiring Full Stack Developer
+Aspiring Full Stack Developer. <br/>
 I decided to be developer because i have always been in interest of programming .
 I started my journey and learning all the skills that are required to be a full stack developer.
 Also there is a lot of interest of Automotive Designing in me.
