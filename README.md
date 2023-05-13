@@ -9,7 +9,7 @@ Also there is a lot of interest of Automotive Designing in me.
 ### Reach me at :
 [![Linkedin Badge](https://img.shields.io/badge/-Parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-kumar-sahu-7683a8267/)](https://www.linkedin.com/in/parth-kumar-sahu-7683a8267/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Parth-lightgreen)]()
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-lightyellow)](https://stackoverflow.com/users/21684714/parth-kumar-sahu)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Parth-lightyellow)](https://stackoverflow.com/users/21684714/parth-kumar-sahu)
 
 
 
