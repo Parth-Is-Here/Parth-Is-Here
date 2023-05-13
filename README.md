@@ -1,12 +1,15 @@
 ### Hi Developers 👋
 
 I'm
-Aspiring Full Stack Developer. <br/>
+Aspiring Full Stack Developer.
+
 I decided to be developer because i have always been in interest of programming .
-I started my journey and learning all the skills that are required to be a full stack developer.
+Started my journey and learning all the skills that are required to be a full stack developer.
+
 Also there is a lot of interest of Automotive Designing in me.
 
 ### Reach me at :
+
 [![Linkedin Badge](https://img.shields.io/badge/-Parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-kumar-sahu-7683a8267/)](https://www.linkedin.com/in/parth-kumar-sahu-7683a8267/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Parth-lightgreen)]()
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Parth-lightyellow)](https://stackoverflow.com/users/21684714/parth-kumar-sahu)
