@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
 [![Website Badge](https://img.shields.io/badge/WebSite-Parth-lightgreen)]()
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-lightyellow)]()
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)]()
 
 I'm
 Aspiring Full Stack Developer
@@ -16,7 +16,7 @@ Also there is a lot of interest of Automotive Designing in me.
 <!-- <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Parth-Is-Here&column=7"/>
   </a>
 </div> -->
 
@@ -145,7 +145,7 @@ Also there is a lot of interest of Automotive Designing in me.
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a>
  -->
-![](https://activity-graph.herokuapp.com/graph?username=Parth-Is-Here&theme=react-dark&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=Parth-Is-Here&theme=react-light&area=true)
 
 <!--
 **Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
