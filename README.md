@@ -1,17 +1,19 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)]()
-[![Website Badge](https://img.shields.io/badge/WebSite-Parth-lightgreen)]()
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)]()
-
 I'm
 Aspiring Full Stack Developer
 I decided to be developer because i have always been in interest of programming .
 I started my journey and learning all the skills that are required to be a full stack developer.
 Also there is a lot of interest of Automotive Designing in me.
 
+### Reach me at :
+[![Linkedin Badge](https://img.shields.io/badge/-Parth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/parth-kumar-sahu-7683a8267/)](https://www.linkedin.com/in/parth-kumar-sahu-7683a8267/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Parth-lightgreen)]()
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-lightyellow)](https://stackoverflow.com/users/21684714/parth-kumar-sahu)
 
-![Visitor Count](https://profile-counter.glitch.me/Parth-Is-Here/count.svg)
+
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/Parth-Is-Here/count.svg) -->
 
 <!-- <div>
   <h4>🏆 Github Profile Trophy</h4>
@@ -145,10 +147,10 @@ Also there is a lot of interest of Automotive Designing in me.
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a>
  -->
-![](https://activity-graph.herokuapp.com/graph?username=Parth-Is-Here&theme=react-light&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=Parth-Is-Here&theme=react-dark&area=true)
 
 <!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Parth-Is-Here/Parth-Is-Here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
