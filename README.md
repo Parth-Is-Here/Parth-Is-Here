@@ -11,7 +11,7 @@ I started my journey and learning all the skills that are required to be a full 
 Also there is a lot of interest of Automotive Designing in me.
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Parth-Is-Here/count.svg)
 
 <!-- <div>
   <h4>🏆 Github Profile Trophy</h4>
